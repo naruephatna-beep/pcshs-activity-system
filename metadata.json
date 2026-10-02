@@ -1,0 +1,7 @@
+{
+  "name": "PCSHS Kalasin - Learner Development Activity System",
+  "description": "ระบบกิจกรรมพัฒนาผู้เรียน โรงเรียนวิทยาศาสตร์จุฬาภรณราชวิทยาลัย กาฬสินธุ์ พร้อมฐานข้อมูลและระบบเชื่อมต่อ Google Sheets / Apps Script",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
